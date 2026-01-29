@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Flashman</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      margin-top: 50px;
+      background-color: #111; /* dark background for tech look */
+      color: #fff;
+    }
+    h1 {
+      color: #ffcc00; /* Flashman yellow */
+    }
+    p {
+      font-size: 18px;
+      color: #ddd;
+    }
+    img {
+      width: 150px;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <img src="assets/logo.png" alt="Flashman Logo">
+  <h1>Welcome to Flashman!</h1>
+  <p>Showcasing electronics projects and knowledge.</p>
+</body>
+</html>
